@@ -1,2 +1,3 @@
 # workwechat
-企业微信python3加解密文件
+企业微信收发消息python3加解密文件
+官方提供下载的python的版本是python2的
